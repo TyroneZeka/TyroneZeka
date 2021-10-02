@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.linkedin.com/in/tyrone-zekah-131753134/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/the_black.chinese/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/Chamakuvangu01/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<!-- <a href="https://www.youtube.com/channel/UCMqzzvA2OCepIrnvkK1sMEQ/" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube--v1.png"/></a> -->
+<a href="https://tyronezeka.github.io/my_site/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
+<a href="mailto:zekah54@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=bertamatu&show_icons=true&count_private=true" width="500" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertamatu&layout=compact/" width="208" height="auto"/>
