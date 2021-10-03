@@ -1,5 +1,5 @@
-### Hi there 👋
-## I'm Tyrone 🌱🔭⚡
+## Hi there 👋
+### I'm Tyrone 🌱🔭⚡
 
 <!--
 **TyroneZeka/TyroneZeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
